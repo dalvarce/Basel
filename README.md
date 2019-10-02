@@ -3,7 +3,7 @@ Basel based service for categorization and calification (obtaining the Probabili
 operation -mortgages, loans, credits, cards, etc-, for credit risk management purposes.
 
 Also, base project to test some concepts (REST API, Eureka as naming server, Ribbon as load balancer, Docker as
-container service, transactional methods, concurrency and so on).
+container service, Kubernetes as container orchestrator, transactional methods, concurrency and so on).
 
 ## Info
 
@@ -40,6 +40,7 @@ The following list contains some random features to be implemented (not necessar
 * Filtering & sorting in basel requests
 * Calculate Probability of Default (decision tree based method)
 * Automated tests
+* Docker for containerization & Kubernetes for container orchestration
 
 ## Guides
 For further reference, please consider the following sections:
